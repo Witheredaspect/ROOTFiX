@@ -6,7 +6,7 @@ This project is to be used for purely educational purposes. Code
 
 Commit requests must include proof of the following:
 Former project knowledge.
-Coding knowledge in at least ONE of these areas. (JavaScript, Batch, PowerShell, Python.) Other areas will be appreciated :)
+Coding knowledge in at least ONE of these areas. (JavaScript, Batch, PowerShell, Python.) Other areas would be appreciated.
 Knowledge on how to program ONE of these Malware types. (DDoS, Rat, Keylogger, Worm, Rootkit, Spyware.)
 
 Requestee's must also have the following credentials:
